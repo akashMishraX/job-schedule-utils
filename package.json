@@ -1,0 +1,22 @@
+{
+  "name": "job-schedule-utils-akashmishrax1",
+  "version": "1.0.4",
+  "description": "Shared utilities for job scheduling.",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "index.js",
+    "types/",
+    "unix-timestamp/"
+  ],
+  "exports": {
+    ".": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash/shared-utils.git"
+  },
+  "keywords": ["utils"],
+  "author": "Akash Mishra",
+  "license": "MIT"
+}
