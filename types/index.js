@@ -3,6 +3,7 @@ export default class Types {
         const jobTypes = {
             EMAIL: 'EMAIL',
             NOTIFICATION: 'NOTIFICATION',
+            CODING: 'CODING',
             DATA_PROCESSING: 'DATA_PROCESSING',
             REPORT_GENERATION: 'REPORT',
             BACKUP: 'BACKUP'
